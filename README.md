@@ -11,4 +11,4 @@ adalah sebuah game buatan kelompok kami yang terinspirasi dari cerita tokoh pewa
 
 ## Kontak Kami
     ega.rifs@gmail.com
-
+    
